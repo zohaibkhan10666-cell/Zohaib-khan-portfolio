@@ -13,11 +13,11 @@ Make it responsive for desktop, tablet, and mobile, and keep the experience smoo
 
 
 Please use React with Vite, Tailwind & shadcn/ui and use the animation and 3D tools that fit this style well. The final result should feel modern, clean, and memorable, smooth motion throughout,animations: GSAP, Framer Motion
-3D Graphics: Three.js, React Three Fiber, Drei, Scroll Handling: Lenis, Routing: React Router, State Management /Data Fetching: TanStack Query (React Query) and keep the layout clean and professional. I want it to feel interactive without being cluttered. If you need details for animations or 3D behavior, look up current docs online and make it production ready.https://github.com/rabiya43/Rabiya-Portfolio and https://www.github.com/Parth844/Parth-Devfolio
+3D Graphics: Three.js, React Three Fiber, Drei, Scroll Handling: Lenis, Routing: React Router, State Management /Data Fetching: TanStack Query (React Query) and keep the layout clean and professional. I want it to feel interactive without being cluttered. If you need details for animations or 3D behavior, look up current docs online and make it production ready.https://aliportfoliowebsite.netlify.app/ and https://github.com/rabiya43/Rabiya-Portfolio
 
 ABOUT:
 Hi, I'm
-Ali Hassan
+ZOhaib Khan
 Developer
 • Designer
 • Problem Solver
@@ -85,3 +85,7 @@ GitHub repository: https://github.com/zohaibkhan10666-cell/food-saucy-sal-s
 • Riwayaat collections (react,javascript,tailwincss,nodejs,express app,mongodb)
 about:ELEVATE YOUR ELEGANCE Minimal Cultural Premium Clothing Experience (creat with my peer friend hamza)
 live demo: https://zulfiqarteams.github.io/Portfolio_Website/Riwaayah/index.html
+
+linkdin url: www.linkedin.com/in/zohaib-khan-6021ba403
+
+image hero session adding : https://aliportfoliowebsite.netlify.app/assets/avatar.png
