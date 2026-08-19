@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <polygon points="50,5 95,25 95,75 50,95 5,75 5,25" stroke="#00f0ff" stroke-width="3" fill="#040714" />
+  <text x="50" y="58" font-family="'Orbitron', sans-serif" font-size="28" font-weight="bold" fill="#00f0ff" text-anchor="middle">ZK</text>
+  <circle cx="50" cy="50" r="38" stroke="#8b5cf6" stroke-width="1.5" stroke-dasharray="4 4" />
+</svg>
