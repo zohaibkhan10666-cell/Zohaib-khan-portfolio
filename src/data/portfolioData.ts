@@ -80,8 +80,8 @@ export const PORTFOLIO_DATA = {
     tagline: "Turning caffeine and code into functional software.",
     bio: "I'm passionate about building beautiful, functional and user-friendly applications. I enjoy turning ideas into real-world solutions through clean code and thoughtful design.",
     fullBio: "I'm Zohaib Khan, a Computer Science student at University of Punjab who lives at the intersection of clean code, thoughtful architecture, and creative visual design. I build high-performance full-stack MERN applications, resilient REST APIs, and engaging user interfaces that solve real-world problems.",
-    heroImage: "https://aliportfoliowebsite.netlify.app/assets/avatar.png",
-    avatarImage: "https://aliportfoliowebsite.netlify.app/assets/avatar.png",
+    heroImage: "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=600&q=80",
+    avatarImage: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=600&q=80",
     github: "https://github.com/zohaibkhan10666-cell",
     linkedin: "https://linkedin.com/in/zohaibkhan-dev",
     twitter: "https://x.com/zohaibkhan_dev",
@@ -168,7 +168,7 @@ export const PORTFOLIO_DATA = {
       description: "Your favorite artisan ice creams & gourmet fast-food flavors, crafted with real California ingredients and delivered icy fresh. Features responsive interactive menu showcases and smooth cart flows.",
       category: "Frontend & UI",
       featured: true,
-      image: "https://images.unsplash.com/photo-1497034825429-c343d7c6a68f?auto=format&fit=crop&w=1000&q=80",
+      image: "https://images.pexels.com/photos/17822812/pexels-photo-17822812.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
       tags: ["HTML5", "CSS3", "Tailwind CSS", "JavaScript"],
       stats: [
         { label: "Performance", value: "99/100" },
@@ -191,7 +191,7 @@ export const PORTFOLIO_DATA = {
       description: "Discover amazing products at great prices. Shop now and enjoy the best shopping experience with product search, category filtering, cart management, and backend order processing.",
       category: "Full Stack MERN",
       featured: true,
-      image: "https://images.unsplash.com/photo-1472851294608-062f824d29cc?auto=format&fit=crop&w=1000&q=80",
+      image: "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=400",
       tags: ["React", "Node.js", "Express", "MongoDB Atlas", "REST API", "Tailwind CSS", "Postman"],
       stats: [
         { label: "Stack", value: "MERN" },
