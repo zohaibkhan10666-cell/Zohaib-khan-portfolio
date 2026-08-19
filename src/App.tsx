@@ -17,7 +17,14 @@ import { FooterSection } from './components/sections/FooterSection';
 export function App() {
   const [isResumeOpen, setIsResumeOpen] = useState(false);
 
-  // Initialize Lenis Smooth Scroll
+  // Ensure page loads at hero section (home) on refresh
+  useEffect(() => {
+    if (window.location.hash && window.location.hash !== '#home') {
+      window.history.replaceState(null, '', '#home');
+      window.scrollTo(0, 0);
+    }
+  }, []);
+
   useEffect(() => {
     const lenis = new Lenis({
       duration: 1.1,

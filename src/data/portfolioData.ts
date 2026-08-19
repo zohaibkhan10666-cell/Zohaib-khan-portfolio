@@ -81,7 +81,7 @@ export const PORTFOLIO_DATA = {
     bio: "I'm passionate about building beautiful, functional and user-friendly applications. I enjoy turning ideas into real-world solutions through clean code and thoughtful design.",
     fullBio: "I'm Zohaib Khan, a Computer Science student at University of Punjab who lives at the intersection of clean code, thoughtful architecture, and creative visual design. I build high-performance full-stack MERN applications, resilient REST APIs, and engaging user interfaces that solve real-world problems.",
     heroImage: "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=600&q=80",
-    avatarImage: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=600&q=80",
+    avatarImage: "https://aliportfoliowebsite.netlify.app/assets/avatar.png",
     github: "https://github.com/zohaibkhan10666-cell",
     linkedin: "https://linkedin.com/in/zohaibkhan-dev",
     twitter: "https://x.com/zohaibkhan_dev",

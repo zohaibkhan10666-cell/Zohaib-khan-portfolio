@@ -117,7 +117,7 @@ export function SideNav({ onOpenResume }: SideNavProps) {
                     className="absolute left-0 top-1/2 -translate-y-1/2 w-1 h-5 bg-cyan-400 rounded-r-full shadow-[0_0_8px_#00f0ff]"
                   />
                 )}
-                <Icon className={`w-4 h-4 transition-all duration-200 group-hover:scale-110 ${isActive ? item.color : 'text-slate-400 group-hover:text-cyan-400'}`} />
+                                <Icon className={`w-4 h-4 transition-all duration-200 group-hover:scale-110 ${item.color}`} />
                 <span>{item.label}</span>
               </a>
             );
