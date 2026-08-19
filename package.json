@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "postinstall": "npm rebuild esbuild"
   },
   "dependencies": {
     "@gsap/react": "^2.1.2",
@@ -15,6 +16,7 @@
     "@tanstack/react-query": "^5.66.0",
     "canvas-confetti": "^1.9.4",
     "clsx": "^2.1.1",
+    "esbuild": "^0.25.12",
     "framer-motion": "^12.4.7",
     "gsap": "^3.12.7",
     "lenis": "^1.1.20",
