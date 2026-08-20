@@ -14,4 +14,26 @@ export default defineConfig({
     port: 5173,
     host: true,
   },
+  build: {
+    chunkSizeWarningLimit: 1000, // increase limit to avoid warnings for large bundles
+    rollupOptions: {
+      output: {
+        manualChunks: {
+          // Separate vendor libraries into their own chunk
+          vendor: [
+            'react',
+            'react-dom',
+            'three',
+            '@react-three/fiber',
+            '@react-three/drei',
+            '@tanstack/react-query',
+            'framer-motion',
+            'gsap',
+            'lenis',
+            'lucide-react',
+          ],
+        },
+      },
+    },
+  },
 });
